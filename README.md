@@ -311,6 +311,6 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Chetan VK**
+**P.SREE SAI SNIGDHA**
 
-B.Tech in Artificial Intelligence & Data Science
+
